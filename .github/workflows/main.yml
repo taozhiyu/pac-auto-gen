@@ -2,7 +2,7 @@ name: Generate pac file
 
 on:
   schedule:
-    - cron: 0 0 * * 0
+    - cron: 0 0 * * 5
   push:
     branches:
       - master
@@ -29,7 +29,7 @@ jobs:
           packages: genpac
 
       - name: Run generate tool
-        run: genpac --format pac --user-rule-from ./rules.txt --pac-proxy "SOCKS5 127.0.0.1:1080" > ./pac.txt
+        run: genpac --format pac --user-rule-from ./rules.txt --pac-proxy "SOCKS5 127.0.0.1:10808" > ./pac.txt
 
       - name: Get current date
         id: date
