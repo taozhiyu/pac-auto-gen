@@ -41,4 +41,4 @@ jobs:
           message: "chore: ${{ steps.date.outputs.date }} update pac.txt"
           add: pac.txt
           author_name: taozhiyu
-          author_email: taozhiyu
+          author_email: 49258735+taozhiyu@users.noreply.github.com
