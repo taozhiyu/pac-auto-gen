@@ -40,6 +40,5 @@ jobs:
         with:
           message: "chore: ${{ steps.date.outputs.date }} update pac.txt"
           add: pac.txt
-          author_name: NoDocCat
-          author_email: nodoccat@outlook.com
-          token: ${{ secrets.GITHUB_TOKEN }}
+          author_name: taozhiyu
+          author_email: taozhiyu
