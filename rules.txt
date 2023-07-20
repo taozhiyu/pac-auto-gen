@@ -2,6 +2,7 @@
 *.githubusercontent.com
 *.githubassets.com
 *.github.io
+*.github.dev
 
 *.reactjs.org
 
@@ -14,3 +15,5 @@
 *.vuejs.org
 
 *.jetbrains.com
+
+chat.openai.com
