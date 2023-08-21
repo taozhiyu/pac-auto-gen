@@ -1,6 +1,6 @@
 ## 下载
 
-<a href="https://nodoccat.github.io/pac-auto-gen/pac.txt" download>pac.txt</a>
+<a href="./pac.txt" download>pac.txt</a>
 
 ## 感谢
 
