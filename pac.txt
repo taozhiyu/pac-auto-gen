@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-03-14 01:25:57
- * GFWList Last-Modified: 2025-03-13 11:15:09
+ * Generated: 2025-03-21 01:36:50
+ * GFWList Last-Modified: 2025-03-16 17:09:18
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -468,6 +468,7 @@ var rules = [
             "aofriend.com.au",
             "aojiao.org",
             "aolchannels.aol.com",
+            "aomedia.org",
             "aomiwang.com",
             "apartmentratings.com",
             "apartments.com",
@@ -1914,7 +1915,6 @@ var rules = [
             "farwestchina.com",
             "fast.wistia.com",
             "fastestvpn.com",
-            "fastgpt.run",
             "fastpic.ru",
             "fastssh.com",
             "faststone.org",
@@ -4445,7 +4445,7 @@ var rules = [
             "powerphoto.org",
             "ppy.sh",
             "prayforchina.net",
-            "premeforwindows7.com",
+            "prcleader.org",
             "premproxy.com",
             "presentation.new",
             "presentationzen.com",
