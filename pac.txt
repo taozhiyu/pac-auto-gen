@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-04-18 01:37:42
- * GFWList Last-Modified: 2025-04-17 12:38:12
+ * Generated: 2025-04-25 01:41:02
+ * GFWList Last-Modified: 2025-04-24 11:57:46
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1661,7 +1661,6 @@ var rules = [
             "duanzhihu.com",
             "dubox.com",
             "duck.com",
-            "duckdns.org",
             "duckduckgo-owned-server.yahoo.net",
             "duckduckgo.com",
             "duckload.com",
@@ -3984,6 +3983,7 @@ var rules = [
             "news.cnyes.com",
             "news.ebc.net.tw",
             "news.msn.com.tw",
+            "news.mt.co.kr",
             "news.nationalgeographic.com",
             "news.omy.sg",
             "news.seehua.com",
@@ -4742,6 +4742,7 @@ var rules = [
             "rusvpn.com",
             "ruten.com.tw",
             "rutracker.net",
+            "rutracker.org",
             "rutube.ru",
             "ruyiseek.com",
             "rxhj.net",
