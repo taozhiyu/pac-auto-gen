@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-05-16 01:44:45
- * GFWList Last-Modified: 2025-05-12 10:04:00
+ * Generated: 2025-05-23 01:44:04
+ * GFWList Last-Modified: 2025-05-20 11:14:44
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -412,6 +412,7 @@ var rules = [
             "alwaysvpn.com",
             "am730.com.hk",
             "amazon.co.jp",
+            "amazonvideo.com",
             "ameblo.jp",
             "americangreencard.com",
             "americanunfinished.com",
@@ -660,6 +661,7 @@ var rules = [
             "bbs.mikocon.com",
             "bbs.morbell.com",
             "bbs.mychat.to",
+            "bbs.naixi.net",
             "bbs.netbig.com",
             "bbs.nyinfor.com",
             "bbs.ozchinese.com",
@@ -3397,6 +3399,8 @@ var rules = [
             "lausan.hk",
             "lbank.info",
             "ld.hao123img.com",
+            "ldplayer.net",
+            "ldplayer.tw",
             "le-vpn.com",
             "leafyvpn.net",
             "lecloud.net",
@@ -4469,6 +4473,7 @@ var rules = [
             "presidentlee.tw",
             "prestige-av.com",
             "pride.google",
+            "primevideo.com",
             "prism-break.org",
             "prisoneralert.com",
             "pritunl.com",
@@ -4750,6 +4755,7 @@ var rules = [
             "safeguarddefenders.com",
             "safervpn.com",
             "safety.google",
+            "sagernet.org",
             "saintyculture.com",
             "saiq.me",
             "sakuralive.com",
@@ -5496,6 +5502,7 @@ var rules = [
             "ticket.com.tw",
             "tigervpn.com",
             "tiktok.com",
+            "tiktokcdn-eu.com",
             "tiktokcdn-us.com",
             "tiktokcdn.com",
             "tiktokv.com",
