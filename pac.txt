@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-06-06 01:45:04
- * GFWList Last-Modified: 2025-06-05 13:19:31
+ * Generated: 2025-06-13 01:47:12
+ * GFWList Last-Modified: 2025-06-12 09:12:58
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -273,6 +273,7 @@ var rules = [
             "8z1.net",
             "9001700.com",
             "908taiwan.org",
+            "91dasai.com",
             "91porn.com",
             "91porny.com",
             "91vps.club",
@@ -1346,6 +1347,7 @@ var rules = [
             "coursehero.com",
             "coze.com",
             "cpj.org",
+            "cpu-monkey.com",
             "cq99.us",
             "crackle.com",
             "crazypool.org",
@@ -2940,7 +2942,6 @@ var rules = [
             "huyandex.com",
             "hwadzan.tw",
             "hwayue.org.tw",
-            "hwinfo.com",
             "hxwk.org",
             "hxwq.org",
             "hybrid-analysis.com",
@@ -3449,6 +3450,7 @@ var rules = [
             "line.naver.jp",
             "linear-abematv.akamaized.net",
             "linglingfa.com",
+            "lingualeo.com",
             "lingvodics.com",
             "link-o-rama.com",
             "linkedin.com",
