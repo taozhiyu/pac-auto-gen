@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-06-27 01:48:40
- * GFWList Last-Modified: 2025-06-26 13:24:53
+ * Generated: 2025-07-04 01:48:12
+ * GFWList Last-Modified: 2025-07-03 13:23:19
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -59,6 +59,7 @@ var rules = [
             "hchcc.gov.tw",
             "hsinchu-cc.gov.tw",
             "http2.golang.org",
+            "i.pki.goog",
             "ime.baidu.jp",
             "iner.gov.tw",
             "ip.cn",
@@ -1432,6 +1433,7 @@ var rules = [
             "dongtaiwang.net",
             "dongyangjing.com",
             "dontfilter.us",
+            "doom9.org",
             "doosho.com",
             "doourbest.org",
             "dorjeshugden.com",
@@ -2725,6 +2727,7 @@ var rules = [
             "imdb.com",
             "img.dlsite.jp",
             "img.ly",
+            "img.picgo.net",
             "imgasd.com",
             "imgchili.net",
             "imgmega.com",
