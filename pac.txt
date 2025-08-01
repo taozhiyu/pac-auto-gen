@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-07-25 01:54:39
- * GFWList Last-Modified: 2025-07-14 09:55:03
+ * Generated: 2025-08-01 02:07:17
+ * GFWList Last-Modified: 2025-07-29 05:14:47
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3178,6 +3178,7 @@ var rules = [
             "lsxszzg.com",
             "ltn.com.tw",
             "luckydesigner.space",
+            "ludepress.com",
             "luke54.com",
             "luke54.org",
             "lupm.org",
@@ -5469,6 +5470,7 @@ var rules = [
             "wahas.com",
             "waikeung.org",
             "wainao.me",
+            "walletconnect.com",
             "wallmama.com",
             "wallpapercasa.com",
             "wallproxy.com",
@@ -5800,6 +5802,7 @@ var rules = [
             "yam.org.tw",
             "yande.re",
             "yanghengjun.com",
+            "yangzhi.org",
             "yasni.co.uk",
             "yasukuni.or.jp",
             "yayabay.com",
