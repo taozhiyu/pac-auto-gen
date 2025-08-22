@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-08-15 01:49:47
- * GFWList Last-Modified: 2025-08-13 10:33:38
+ * Generated: 2025-08-22 01:41:26
+ * GFWList Last-Modified: 2025-08-21 10:06:50
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -108,7 +108,6 @@ var rules = [
             "static.soup.io",
             "static.typepad.com",
             "stdtime.gov.tw",
-            "storage.googleapis.com",
             "store.sprite.org",
             "sunmoonlake.gov.tw",
             "taitung-house.gov.tw",
@@ -1356,6 +1355,7 @@ var rules = [
             "demo.unlock-music.dev",
             "democrats.org",
             "demosisto.hk",
+            "deno.dev",
             "depositphotos.com",
             "desc.se",
             "desipro.de",
@@ -1424,6 +1424,7 @@ var rules = [
             "doc.new",
             "docker.com",
             "docker.io",
+            "docs.deno.com",
             "docs.new",
             "doctorvoice.org",
             "documentingreality.com",
@@ -1946,6 +1947,7 @@ var rules = [
             "furbo.org",
             "furhhdl.org",
             "furinkan.com",
+            "furrybar.com",
             "futurechinaforum.org",
             "futuremessage.org",
             "fux.com",
@@ -2837,6 +2839,7 @@ var rules = [
             "itemdb.com",
             "itemfix.com",
             "ithelp.ithome.com.tw",
+            "itiger.com",
             "itsaol.com",
             "itshidden.com",
             "itsky.it",
@@ -3531,6 +3534,7 @@ var rules = [
             "nationsonline.org",
             "nationwide.com",
             "naughtyamerica.com",
+            "naver.com",
             "navyfamily.navy.mil",
             "navyreserve.navy.mil",
             "naweeklytimes.com",
@@ -3855,6 +3859,7 @@ var rules = [
             "paljorpublications.com",
             "paltalk.com",
             "panamapapers.sueddeutsche.de",
+            "pancakeswap.finance",
             "pandafan.pub",
             "pandapow.co",
             "pandapow.net",
@@ -3921,6 +3926,7 @@ var rules = [
             "perplexity.ai",
             "persecutionblog.com",
             "persiankitty.com",
+            "pewresearch.org",
             "phapluan.org",
             "phayul.com",
             "philborges.com",
@@ -4050,6 +4056,7 @@ var rules = [
             "prisoneralert.com",
             "pritunl.com",
             "privacybox.de",
+            "privacyguides.org",
             "private.com",
             "privateinternetaccess.com",
             "privatepaste.com",
@@ -4704,6 +4711,7 @@ var rules = [
             "surrenderat20.net",
             "svsfx.com",
             "swagbucks.com",
+            "swapspace.co",
             "swissinfo.ch",
             "swissvpn.net",
             "switch1.jp",
@@ -5233,6 +5241,7 @@ var rules = [
             "udn.com",
             "udn.com.tw",
             "udnbkk.com",
+            "udomain.hk",
             "uforadio.com.tw",
             "ufreevpn.com",
             "ugo.com",
