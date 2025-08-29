@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-08-22 01:41:26
- * GFWList Last-Modified: 2025-08-21 10:06:50
+ * Generated: 2025-08-29 01:38:40
+ * GFWList Last-Modified: 2025-08-26 13:32:31
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1216,6 +1216,7 @@ var rules = [
             "cotweet.com",
             "counter.social",
             "coursehero.com",
+            "covenantswatch.org.tw",
             "coze.com",
             "cpj.org",
             "cpu-monkey.com",
@@ -1764,6 +1765,7 @@ var rules = [
             "fdc89.jp",
             "feedburner.com",
             "feeder.co",
+            "feedly.com",
             "feeds.fileforum.com",
             "feedx.net",
             "feelssh.com",
@@ -1936,6 +1938,8 @@ var rules = [
             "ftx.com",
             "fucd.com",
             "fuchsia.dev",
+            "fuckccp.com",
+            "fuckccp.xyz",
             "fuckgfw.org",
             "fulione.com",
             "fullerconsideration.com",
@@ -3398,6 +3402,7 @@ var rules = [
             "mog.com",
             "mohu.club",
             "mohu.rocks",
+            "moj.gov.tw",
             "mojim.com",
             "mol.gov.tw",
             "molihua.org",
