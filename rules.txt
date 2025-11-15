@@ -19,3 +19,5 @@
 chat.openai.com
 
 claude.ai
+
+*.linux.do
