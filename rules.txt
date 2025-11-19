@@ -1,23 +1,4 @@
-*.github.com
-*.githubusercontent.com
-*.githubassets.com
-*.github.io
 *.github.dev
-
-!*.reactjs.org
-
-!*.unpkg.com
-!*.npmjs.com
 
 *.codacy.com
 *.segment.com
-
-!*.vuejs.org
-
-!*.jetbrains.com
-
-chat.openai.com
-
-claude.ai
-
-*.linux.do
