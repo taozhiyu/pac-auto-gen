@@ -2,3 +2,5 @@
 
 *.codacy.com
 *.segment.com
+
+*.pages.dev
