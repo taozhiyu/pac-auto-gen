@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-12-19 01:49:55
- * GFWList Last-Modified: 2025-12-17 08:56:03
+ * Generated: 2025-12-26 01:50:31
+ * GFWList Last-Modified: 2025-12-24 08:18:43
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3594,6 +3594,7 @@ var rules = [
             "nemesis2.qx.net",
             "neo-miracle.com",
             "neowin.net",
+            "nephobox.com",
             "netalert.me",
             "netbirds.com",
             "netcolony.com",
@@ -3920,6 +3921,7 @@ var rules = [
             "parler.com",
             "parse.com",
             "parsevideo.com",
+            "partnerstack.xyz",
             "partycasino.com",
             "partypoker.com",
             "passion.com",
@@ -4686,6 +4688,7 @@ var rules = [
             "startuplivingchina.com",
             "stat.gov.tw",
             "static-economist.com",
+            "static.pocketcasts.com",
             "static.shemalez.com",
             "static01.nyt.com",
             "staticflickr.com",
