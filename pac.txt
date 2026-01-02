@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-12-26 01:50:31
- * GFWList Last-Modified: 2025-12-24 08:18:43
+ * Generated: 2026-01-02 01:53:27
+ * GFWList Last-Modified: 2026-01-01 02:42:02
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -358,6 +358,7 @@ var rules = [
             "aliengu.com",
             "alive.bar",
             "aljazeera.com",
+            "aljazeera.net",
             "alkasir.com",
             "all4mom.org",
             "allcoin.com",
@@ -1096,7 +1097,6 @@ var rules = [
             "chromecast.com",
             "chromeexperiments.com",
             "chromestatus.com",
-            "chromium.org",
             "chuang-yen.org",
             "chubold.com",
             "chubun.com",
@@ -1367,7 +1367,6 @@ var rules = [
             "delcamp.net",
             "demo.unlock-music.dev",
             "demosisto.hk",
-            "deno.dev",
             "depositphotos.com",
             "desc.se",
             "desipro.de",
@@ -1437,7 +1436,6 @@ var rules = [
             "docker.com",
             "docker.io",
             "dockerstatus.com",
-            "docs.deno.com",
             "docs.new",
             "doctorvoice.org",
             "documentingreality.com",
@@ -2063,6 +2061,7 @@ var rules = [
             "gfw.press",
             "gfw.report",
             "gfwatch.org",
+            "gfwbao.com",
             "ggpht.com",
             "ggssl.com",
             "ghidra-sre.org",
@@ -3209,6 +3208,7 @@ var rules = [
             "looktoronto.com",
             "lotsawahouse.org",
             "lotuslight.org.tw",
+            "lovart.ai",
             "lovetvshow.com",
             "lpsg.com",
             "lrfz.com",
@@ -3950,6 +3950,7 @@ var rules = [
             "pdetails.com",
             "pdproxy.com",
             "pds.nasa.gov",
+            "pdst.fm",
             "peace.ca",
             "peacefire.org",
             "peeasian.com",
@@ -4695,6 +4696,7 @@ var rules = [
             "stboy.net",
             "stc.com.sa",
             "steamcommunity.com",
+            "steamladder.com",
             "steamstatic.com",
             "steel-storm.com",
             "steemit.com",
@@ -5343,6 +5345,7 @@ var rules = [
             "unstable.icu",
             "unwire.hk",
             "uocn.org",
+            "up.audio",
             "upbit.com",
             "updates.tdesktop.com",
             "upghsbc.com",
