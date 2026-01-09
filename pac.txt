@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-01-02 01:53:27
- * GFWList Last-Modified: 2026-01-01 02:42:02
+ * Generated: 2026-01-09 01:54:51
+ * GFWList Last-Modified: 2026-01-06 08:26:49
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -87,7 +87,6 @@ var rules = [
             "nvri.gov.tw",
             "ocsp.pki.goog",
             "penghu-nsa.gov.tw",
-            "pinterest.cn",
             "post.gov.tw",
             "qq.com",
             "redirector.gvt1.com",
@@ -330,6 +329,7 @@ var rules = [
             "agro.hk",
             "ai.binwang.me",
             "ai.dev",
+            "ai.studio",
             "aiosearch.com",
             "aiph.net",
             "airasia.com",
@@ -1339,6 +1339,7 @@ var rules = [
             "dawangidc.com",
             "daxa.cn",
             "daylife.com",
+            "dazn.com",
             "db.tt",
             "dbgjd.com",
             "dcard.tw",
@@ -3839,6 +3840,8 @@ var rules = [
             "onthehunt.com",
             "ontrac.com",
             "oojj.de",
+            "ooni.io",
+            "ooni.org",
             "open.com.hk",
             "open.firstory.me",
             "openai.com",
@@ -4000,6 +4003,23 @@ var rules = [
             "pinimg.com",
             "pinkrod.com",
             "pinoy-n.com",
+            "pinterest.at",
+            "pinterest.ca",
+            "pinterest.cl",
+            "pinterest.co.uk",
+            "pinterest.com",
+            "pinterest.com.au",
+            "pinterest.com.mx",
+            "pinterest.de",
+            "pinterest.es",
+            "pinterest.fr",
+            "pinterest.ie",
+            "pinterest.it",
+            "pinterest.jp",
+            "pinterest.nz",
+            "pinterest.ph",
+            "pinterest.pt",
+            "pinterest.se",
             "pioneer-worker.forums-free.com",
             "pipii.tv",
             "piraattilahti.org",
@@ -5809,6 +5829,7 @@ var rules = [
             "xbookcn.com",
             "xbtce.com",
             "xcafe.in",
+            "xcancel.com",
             "xcity.jp",
             "xcritic.com",
             "xerotica.com",
