@@ -4,3 +4,5 @@
 *.segment.com
 
 *.pages.dev
+
+*.claude.com
