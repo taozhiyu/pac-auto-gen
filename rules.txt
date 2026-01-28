@@ -6,3 +6,6 @@
 *.pages.dev
 
 *.claude.com
+
+! google 自定义域名
+*.google
