@@ -8,4 +8,7 @@
 *.claude.com
 
 ! google 自定义域名
-*.google|
+gemini.google
+*.gemini.google
+ai.google
+design.google
