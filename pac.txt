@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-01-30 14:35:36
- * GFWList Last-Modified: 2026-01-30 12:58:01
+ * Generated: 2026-02-06 02:21:27
+ * GFWList Last-Modified: 2026-02-05 10:25:56
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -605,6 +605,7 @@ var rules = [
             "bbc.co.uk",
             "bbc.com",
             "bbc.in",
+            "bbc.pdn.tritondigital.com",
             "bbcchinese.com",
             "bbchat.tv",
             "bbci.co.uk",
@@ -1354,6 +1355,7 @@ var rules = [
             "dbgjd.com",
             "dcard.tw",
             "dcmilitary.com",
+            "dcs-spotify.megaphone.fm",
             "ddc.com.tw",
             "ddex.io",
             "ddns.info",
@@ -2420,6 +2422,7 @@ var rules = [
             "greenvpn.org",
             "grindr.com",
             "grok.com",
+            "grokipedia.com",
             "ground.news",
             "gs-discuss.com",
             "gsearch.media",
@@ -2491,6 +2494,7 @@ var rules = [
             "helloandroid.com",
             "helloqueer.com",
             "hellouk.org",
+            "help.byspotify.com",
             "helpeachpeople.com",
             "helpster.de",
             "helpzhuling.org",
@@ -3912,6 +3916,7 @@ var rules = [
             "padmanet.com",
             "page.link",
             "page2rss.com",
+            "pages.dev",
             "paimon.moe",
             "palacemoon.com",
             "paljorpublications.com",
@@ -4451,6 +4456,7 @@ var rules = [
             "seesmic.com",
             "seevpn.com",
             "seezone.net",
+            "sef.org.tw",
             "sehuatang.net",
             "sehuatang.org",
             "sejie.com",
@@ -4830,6 +4836,7 @@ var rules = [
             "tafm.org",
             "tagwalk.com",
             "tahr.org.tw",
+            "tails.net",
             "taipei.gov.tw",
             "taipeisociety.org",
             "taipeitimes.com",
@@ -5795,6 +5802,7 @@ var rules = [
             "www.eastturkistan.net",
             "www.gmiddle.com",
             "www.gmiddle.net",
+            "www.hoyolab.com",
             "www.hustlercash.com",
             "www.idlcoyote.com",
             "www.imdb.com",
