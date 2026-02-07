@@ -8,7 +8,9 @@
 *.claude.com
 
 ! google 自定义域名
-gemini.google
 *.gemini.google
 ai.google
 design.google
+
+! 安娜的档案
+annas-archive.li
