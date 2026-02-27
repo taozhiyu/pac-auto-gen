@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-02-20 02:22:17
- * GFWList Last-Modified: 2026-02-18 13:32:07
+ * Generated: 2026-02-27 02:20:24
+ * GFWList Last-Modified: 2026-02-24 13:37:10
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -190,6 +190,7 @@ var rules = [
             "akamaihd.net",
             "akiba-online.com",
             "akiba-web.com",
+            "akile.io",
             "akinator.com",
             "akow.org",
             "alabout.com",
@@ -324,6 +325,7 @@ var rules = [
             "aspistrategist.org.au",
             "assembla.com",
             "assets.bwbx.io",
+            "assets.nxtrace.org",
             "assimp.org",
             "astrill.com",
             "atc.org.au",
@@ -1254,6 +1256,7 @@ var rules = [
             "freebeacon.com",
             "freebrowser.org",
             "freechinaweibo.com",
+            "freedom.gov",
             "freedomhouse.org",
             "freedominfonetweb.wordpress.com",
             "freedomsherald.org",
@@ -2283,6 +2286,7 @@ var rules = [
             "mediafreakcity.com",
             "mediawiki.org",
             "medium.com",
+            "meee.com.tw",
             "meetup.com",
             "mega.co.nz",
             "mega.io",
@@ -2617,6 +2621,7 @@ var rules = [
             "ooni.org",
             "open.firstory.me",
             "openai.com",
+            "opencritic.com",
             "opendemocracy.net",
             "openid.net",
             "openleaks.org",
@@ -3493,6 +3498,7 @@ var rules = [
             "topsy.com",
             "toptip.ca",
             "toptoon.net",
+            "tor.eff.org",
             "torguard.net",
             "torlock.com",
             "torproject.org",
@@ -3646,6 +3652,7 @@ var rules = [
             "underwoodammo.com",
             "unholyknight.com",
             "unirule.cloud",
+            "uniswap.org",
             "unknownspace.org",
             "unmineable.com",
             "unseen.is",
@@ -3952,6 +3959,7 @@ var rules = [
             "www.antd.org",
             "www.aolnews.com",
             "www.bing.com",
+            "www.clashverge.dev",
             "www.cmoinc.org",
             "www.dmm.com",
             "www.eastturkistan.net",
