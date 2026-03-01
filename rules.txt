@@ -11,6 +11,11 @@
 *.gemini.google
 ai.google
 design.google
+goo.gle
+c.gle
+pairdevice.gle
+forms.gle
+search.google
 
 ! 安娜的档案
 annas-archive.li
