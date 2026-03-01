@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-02-27 02:20:24
+ * Generated: 2026-03-01 08:06:56
  * GFWList Last-Modified: 2026-02-24 13:37:10
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
@@ -12,12 +12,17 @@ var rules = [
         [
             "ai.google",
             "annas-archive.li",
+            "c.gle",
             "claude.com",
             "codacy.com",
             "design.google",
+            "forms.gle",
             "gemini.google",
             "github.dev",
+            "goo.gle",
             "pages.dev",
+            "pairdevice.gle",
+            "search.google",
             "segment.com"
         ]
     ],
