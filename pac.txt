@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-03-13 02:21:49
- * GFWList Last-Modified: 2026-03-08 10:15:05
+ * Generated: 2026-03-20 02:22:27
+ * GFWList Last-Modified: 2026-03-19 05:49:29
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -138,6 +138,7 @@ var rules = [
             "a-normal-day.com",
             "a248.e.akamai.net",
             "aamacau.com",
+            "aave.com",
             "abc.net.au",
             "abc.xyz",
             "abebooks.co.uk",
@@ -2601,8 +2602,10 @@ var rules = [
             "ohmyrss.com",
             "ok.ru",
             "okayfreedom.com",
+            "okcoin.com",
             "okex.com",
             "okk.tw",
+            "oklink.com",
             "okpool.me",
             "okx.com",
             "old.honeynet.org",
@@ -4018,6 +4021,7 @@ var rules = [
             "xcafe.in",
             "xcancel.com",
             "xcity.jp",
+            "xdaforums.com",
             "xerotica.com",
             "xfinity.com",
             "xfxssr.me",
