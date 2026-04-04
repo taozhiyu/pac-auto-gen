@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-04-03 02:34:33
- * GFWList Last-Modified: 2026-03-27 14:17:40
+ * Generated: 2026-04-04 15:00:25
+ * GFWList Last-Modified: 2026-04-04 02:42:53
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -12,7 +12,9 @@ var rules = [
         [
             "ai.google",
             "annas-archive.li",
+            "antigravity.google",
             "c.gle",
+            "chromeenterprise.google",
             "claude.com",
             "codacy.com",
             "design.google",
@@ -20,8 +22,14 @@ var rules = [
             "gemini.google",
             "github.dev",
             "goo.gle",
+            "grow.google",
+            "io.google",
+            "labs.google",
+            "notebooklm.google",
+            "opensource.google",
             "pages.dev",
             "pairdevice.gle",
+            "quantumai.google",
             "search.google",
             "segment.com"
         ]
@@ -2657,6 +2665,7 @@ var rules = [
             "orientaldaily.com.my",
             "orn.jp",
             "osfoora.com",
+            "osmand.net",
             "otcbtc.com",
             "otto.de",
             "ourdearamy.com",
