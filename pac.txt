@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-05-22 03:52:47
- * GFWList Last-Modified: 2026-05-20 11:47:07
+ * Generated: 2026-05-29 03:51:37
+ * GFWList Last-Modified: 2026-05-29 03:47:59
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -97,6 +97,7 @@ var rules = [
             "2047.one",
             "2049bbs.xyz",
             "233abc.com",
+            "24hbook.com",
             "24hrs.ca",
             "32red.com",
             "36rain.com",
@@ -330,6 +331,7 @@ var rules = [
             "artstation.com",
             "arvanstorage.ir",
             "arweave.org",
+            "as.mr",
             "asacp.org",
             "asiaharvest.org",
             "asianage.com",
@@ -806,7 +808,6 @@ var rules = [
             "cn.uptodown.com",
             "cna.com.tw",
             "cnbbnews.wordpress.com",
-            "cnbc.com",
             "cnbeta.com.tw",
             "cnd.org",
             "cnnews.chosun.com",
@@ -1028,6 +1029,7 @@ var rules = [
             "douchi.space",
             "dougscripts.com",
             "doujincafe.com",
+            "dowjones.io",
             "download.dappcdn.com",
             "dpool.top",
             "dpp.org.tw",
@@ -1382,6 +1384,7 @@ var rules = [
             "geek-art.net",
             "gekikame.com",
             "gelbooru.com",
+            "gencraft.com",
             "generated.photos",
             "genius.com",
             "geph.io",
@@ -1792,6 +1795,7 @@ var rules = [
             "hicairo.com",
             "hiccears.com",
             "hidden-advent.org",
+            "hiddify.com",
             "hide.me",
             "hideipvpn.com",
             "hideman.net",
@@ -2306,6 +2310,7 @@ var rules = [
             "martsangkagyuofficial.org",
             "marxist.net",
             "marxists.org",
+            "mas.to",
             "mash.to",
             "mastodon.cloud",
             "mastodon.host",
@@ -2450,6 +2455,7 @@ var rules = [
             "motherless.com",
             "movements.org",
             "moviefap.com",
+            "mozilla.ai",
             "mpettis.com",
             "mpfinance.com",
             "mpinews.com",
@@ -3200,7 +3206,6 @@ var rules = [
             "socks-proxy.net",
             "sockslist.net",
             "socrec.org",
-            "softether-download.com",
             "softether.co.jp",
             "softether.org",
             "softfamous.com",
@@ -3777,6 +3782,7 @@ var rules = [
             "vatn.org",
             "vcf-online.org",
             "vcfbuilder.org",
+            "veed.io",
             "vegas.williamhill.com",
             "vegasred.com",
             "venetianmacao.com",
@@ -4145,7 +4151,6 @@ var rules = [
             "yfsp.tv",
             "yhcw.net",
             "yibaochina.com",
-            "yidio.com",
             "yigeni.com",
             "yipub.com",
             "yizhihongxing.com",
