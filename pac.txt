@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-06-19 04:39:49
- * GFWList Last-Modified: 2026-06-19 04:15:23
+ * Generated: 2026-06-26 03:55:06
+ * GFWList Last-Modified: 2026-06-25 13:39:19
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -85,6 +85,7 @@ var rules = [
             "173ng.com",
             "18board.com",
             "18comic.org",
+            "18mh.net",
             "1984bbs.com",
             "1991way.com",
             "1e100.net",
@@ -469,6 +470,7 @@ var rules = [
             "bignews.org",
             "bigone.com",
             "bild.de",
+            "bilinovel.com",
             "biliworld.com",
             "binance.com",
             "binance.org",
@@ -878,6 +880,7 @@ var rules = [
             "crazyshit.com",
             "crbug.com",
             "crchina.org",
+            "creader.com",
             "creaders.net",
             "creativelab5.com",
             "cristyli.com",
@@ -1431,6 +1434,7 @@ var rules = [
             "genius.com",
             "geph.io",
             "get.app",
+            "get.dappcdn.com",
             "get.dev",
             "get.how",
             "get.page",
