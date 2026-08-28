@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-08-21 01:21:53
- * GFWList Last-Modified: 2026-08-19 02:15:34
+ * Generated: 2026-08-28 10:08:45
+ * GFWList Last-Modified: 2026-08-28 03:00:43
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -295,6 +295,7 @@ var rules = [
             "api.palworldgame.com",
             "api.pureapk.com",
             "api.recaptcha.net",
+            "api.shuaiapi.com",
             "api.steampowered.com",
             "api5.futunn.com",
             "apiary.io",
@@ -572,6 +573,7 @@ var rules = [
             "breakgfw.com",
             "breakingtweets.com",
             "breakwall.net",
+            "briarproject.org",
             "brill.com",
             "brizzly.com",
             "broadpressinc.com",
@@ -714,6 +716,7 @@ var rules = [
             "chat.com",
             "chat.lmsys.org",
             "chatgpt.com",
+            "chatgpt.site",
             "chatpdf.com",
             "chaturbate.com",
             "checkgfw.com",
@@ -1869,6 +1872,7 @@ var rules = [
             "himemix.com",
             "hindustantimes.com",
             "hinet.net",
+            "historylines.net",
             "hitbtc.com",
             "hitomi.la",
             "hive.blog",
@@ -2211,6 +2215,7 @@ var rules = [
             "kinmen.travel",
             "kinokuniya.com",
             "kiwi.kz",
+            "kiwix.org",
             "kk-whys.co.jp",
             "kkbox.com",
             "kknews.cc",
@@ -2406,6 +2411,7 @@ var rules = [
             "maven.neoforged.net",
             "mcadforums.com",
             "mcaf.ee",
+            "mceindex.com",
             "mcusercontent.com",
             "md-t.org",
             "me.me",
@@ -3174,6 +3180,7 @@ var rules = [
             "savetibet.org",
             "savetibetstore.org",
             "saveuighur.org",
+            "sb.sb",
             "sbme.me",
             "sbti.unun.dev",
             "schema.org",
@@ -4142,6 +4149,7 @@ var rules = [
             "wp.com",
             "wplace.live",
             "wpoforum.com",
+            "write.as",
             "writesonic.com",
             "wsj.com",
             "wsj.net",
@@ -4190,6 +4198,7 @@ var rules = [
             "x.com",
             "x.company",
             "x3guide.com",
+            "x86.fr",
             "xbabe.com",
             "xbookcn.com",
             "xbtce.com",
